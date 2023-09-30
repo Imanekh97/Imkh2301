@@ -32,6 +32,6 @@ Navigera till din projektmapp, lägg till README.md i Git med kommandot `git add
 
 ## Steg 8: Pusha till GitHub
 
-Pusha dina ändringar till ditt remote repository med kommandot `git push origin master`.
+Pusha dina ändringar till ditt remote repository med kommandot `git push origin main`.
 
 Nu har jag skapat en README.md-fil och laddat upp den på GitHub tillsammans med mitt repository.
